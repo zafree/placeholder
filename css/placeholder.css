@@ -1,6 +1,6 @@
 /**
  * Placeholder v1.0.0 - Awesome placeholder object
- * @link https://zafree.github.io/colornip
+ * @link https://zafree.github.io/placeholder
  * @copyright 2015-2016 Zafree
  * @license MIT
  */
@@ -118,21 +118,14 @@ html {
 .Placeholder__inline--leftover {
     width: 80%;
 }
-.Placeholder__img {
-    display: inline-block;
-
-    width: 100%;
-    height: 320px;
-
-    background-color: rgba(0, 0, 0, .05);
-}
 
 .Credits {
     margin-top: 20px;
 
     color: rgba(0, 0, 0, .3); 
 
-    font-size: 11px;
+    font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    font-size: 14px;
 }
 .Credits span {
     font-size: 12px;
