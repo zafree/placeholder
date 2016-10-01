@@ -1,7 +1,7 @@
 {
   "name": "placeholder",
   "version": "1.0.0",
-  "description": "Awesome placeholder object",
+  "description": "Progressive Content Loading Object",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
