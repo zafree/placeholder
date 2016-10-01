@@ -1,5 +1,5 @@
 /**
- * Placeholder v1.0.0 - Awesome placeholder object
+ * Placeholder v1.0.0 - Progressive Content Loading Object
  * @link https://zafree.github.io/placeholder
  * @copyright 2015-2016 Zafree
  * @license MIT
@@ -117,6 +117,14 @@ html {
 }
 .Placeholder__inline--leftover {
     width: 80%;
+}
+.Placeholder__img {
+    display: inline-block;
+
+    width: 100%;
+    height: 320px;
+
+    background-color: rgba(0, 0, 0, .05);
 }
 
 .Credits {
